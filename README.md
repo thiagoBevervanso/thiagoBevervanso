@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thiagobevervanso&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=thiagoBevervanso&theme=highcontrast&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </div>
 
 ###
