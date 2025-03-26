@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Thiago Bevervanso from Brazil<br><br>- 🔭 I’m working as Fullstack developer<br>- 📚 I'm currently learning Vue.js and some front frameworks<br>- ⚡ In my free time I, dont have a free time</p>
+<p align="left">I'm Thiago Bevervanso from Brazil<br><br>- 🔭 I’m working as Fullstack developer<br>- 📚 I'm currently learning Vue.js and some front frameworks<br>- ⚡ In my free time I think about how to have free time</p>
 
 ###
 
